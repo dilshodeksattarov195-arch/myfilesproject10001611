@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersrocess",
+        "uuid": 15364107,
+        "checksum": "lxnmhp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
